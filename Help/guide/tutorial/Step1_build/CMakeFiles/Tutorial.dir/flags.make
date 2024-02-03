@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGS =  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
+CXX_FLAGS =  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -std=gnu++11
 
